@@ -3,7 +3,7 @@ This Tool Can Dis4ble Token In 1 Min
 
 ### Example
 </p align="center">
-  <img src="./img/Screenshot_2022-02-01-13-16-18-323_ru.iiec.pydroid3.jpg">
+  <img src="./img/verified.jpg">
 </p>
 
 ### Feature
@@ -24,7 +24,7 @@ This Tool Can Dis4ble Token In 1 Min
 
 ### Result
 </p align="center">
-  <img src="./img/Screenshot_2022-02-01-13-16-31-977_com.bluecord.jpg">
+  <img src="./img/disabled.jpg">
 </p>
 
 ### Disclaimer
