@@ -3,7 +3,7 @@ This Tool Can Dis4ble Token In 1 Min
 
 ### Example
 </p align="center">
-  <img src="./img/verified.jpg">
+  <img src="./img/verifiedtoken.jpg">
 </p>
 
 ### Feature
