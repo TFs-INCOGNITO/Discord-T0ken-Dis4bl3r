@@ -8,6 +8,8 @@ Disable Phone And Email Verified Token
 ### Usage
 ```git clone https://github.com/TFs-INCOGNITO/Discord-T0ken-Dis4bl3r```
 
+```cd Discord-T0ken-Dis4bl3r```
+
 ```pip3 install -r requirements.txt```
 
 ```python3 term.py```
