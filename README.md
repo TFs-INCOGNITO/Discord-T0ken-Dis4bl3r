@@ -19,5 +19,10 @@ Disable Phone And Email Verified Token
 
 ```python3 term.py```
 
+### Result
+</p align="center">
+  <img src="Screenshot_2022-02-01-13-16-31-977_com.bluecord.jpg">
+</p>
+
 ### Disclaimer
 ## I DO NOT RESPONSIBLE FOR ANY DAMAGES CAUSED BY THIS TOOL, THIS TOOL IS CREATED FOR EDUCATIONAL PURPOSE ONLY
