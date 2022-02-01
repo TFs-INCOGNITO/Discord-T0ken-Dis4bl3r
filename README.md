@@ -7,4 +7,5 @@ Disable Phone And Email Verified Token
 
 ### Usage
 ```pip3 install -r requirements.txt```
+
 ```python3 term.py```
