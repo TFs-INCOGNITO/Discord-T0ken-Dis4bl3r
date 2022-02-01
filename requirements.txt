@@ -1,7 +1,5 @@
 requests
-json
-sys
-time
 random
 colorama
 random
+pyfiglet
