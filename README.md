@@ -7,7 +7,7 @@ This Tool Can Dis4ble Token In 1 Min
 </p>
 
 ### Feature
-# Disable Phone And Email Verified Token
+# 100% Disable Phone And Email Verified Token
 
 # 2fa Idk Cuz I Haven't Test It Out
 
