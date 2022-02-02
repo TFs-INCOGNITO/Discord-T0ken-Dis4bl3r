@@ -7,11 +7,9 @@ This Tool Can Dis4ble Token In 1 Min
 </p>
 
 ### Feature
-# 100% Disable Phone And Email Verified Token
+# 100% Disable Phone And Email Verified / Unverified Phone Or Email Token
 
 # 2fa Idk Cuz I Haven't Test It Out
-
-# Unverified Email or Phone Token Have 30% Chance Of Getting Locked
 
 ### Usage
 ```git clone https://github.com/TFs-INCOGNITO/Discord-T0ken-Dis4bl3r```
