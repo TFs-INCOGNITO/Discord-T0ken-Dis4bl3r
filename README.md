@@ -11,7 +11,7 @@ This Tool Can Dis4ble Token In 1 Min
 
 # 2fa Idk Cuz I Haven't Test It Out
 
-# Unverified Email or Phone Token Have A Higher Chance Of Getting Locked
+# Unverified Email or Phone Token Have 30% Chance Of Getting Locked
 
 ### Usage
 ```git clone https://github.com/TFs-INCOGNITO/Discord-T0ken-Dis4bl3r```
